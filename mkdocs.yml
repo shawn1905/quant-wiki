@@ -457,10 +457,12 @@ nav:
           - 统计套利算法交易: library/book/量化交易/Statistical Arbitrage/index.md
           - 波动率微笑: library/book/量化交易/The Volatility Smile/index.md
           - 波动率交易网站版: library/book/量化交易/Volatility Trading, + Website-Wiley (2013)/index.md
-          - Orange期权实战知识体系:
+          - Orange期权与波动率交易实战知识体系:
             - 知识库概览: library/book/Orange期权实战知识体系/index.md
             - 01. 体系全景与五层架构: library/book/Orange期权实战知识体系/01_体系全景.md
             - 02. 逐章核心观点复盘: library/book/Orange期权实战知识体系/02_逐章复盘.md
+            - 03. 经典期权书籍知识库(Sinclair/Natenberg): library/book/Orange期权实战知识体系/03_经典书籍实战知识库.md
+            - 04. 学术文献与预测信号综述: library/book/Orange期权实战知识体系/04_学术文献与预测信号综述.md
           - 理解资产价格: library/book/量化交易/理解资产价格-NobelEconomics1/index.md
           - 因子投资方法与实践: library/book/量化交易/石川_ 刘洋溢_ 连祥斌 - 因子投资：方法与实践-电子工业出版社 (2020)/index.md
 

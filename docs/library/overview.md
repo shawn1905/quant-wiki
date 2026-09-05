@@ -62,7 +62,7 @@
 - [量化交易系统构建](book/量化交易/Quantitative Trading_ How to Build Your Own Algorithmic Trading Business-Wiley (2008)/index.md)
 - [统计套利](book/量化交易/Statistical Arbitrage/index.md)
 - [波动率交易](book/量化交易/Volatility Trading, + Website-Wiley (2013)/index.md)
-- [Orange期权实战知识体系](book/Orange期权实战知识体系/index.md) - 商品/股指期权波动率驱动实战交易体系（含五层架构、量化风控铁律与实战图表）
+- [Orange期权与波动率交易实战知识体系](book/Orange期权实战知识体系/index.md) - 商品/股指期权波动率驱动实战交易体系（含五层架构、量化风控铁律与实战图表）
 
 ## 基础理论
 
