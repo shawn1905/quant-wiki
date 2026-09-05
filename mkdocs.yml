@@ -456,7 +456,20 @@ nav:
           - 量化交易系统构建Wiley版: library/book/Quantitative Trading_ How to Build Your Own Algorithmic Trading Business (Wiley Trading) (2021, Wiley)/index.md
           - 统计套利算法交易: library/book/量化交易/Statistical Arbitrage/index.md
           - 波动率微笑: library/book/量化交易/The Volatility Smile/index.md
-          - 波动率交易网站版: library/book/量化交易/Volatility Trading, + Website-Wiley (2013)/index.md
+          - 波动率交易(Sinclair全书原版Markdown):
+            - 全书导读与导航: library/book/Euan_Sinclair_Volatility_Trading/index.md
+            - 00. 交易流程导论: library/book/Euan_Sinclair_Volatility_Trading/ch00_introduction.md
+            - 01. 期权定价与BSM: library/book/Euan_Sinclair_Volatility_Trading/ch01_option_pricing.md
+            - 02. 波动率测量与估计器: library/book/Euan_Sinclair_Volatility_Trading/ch02_volatility_measurement.md
+            - 03. 隐含波动率动态学与微笑: library/book/Euan_Sinclair_Volatility_Trading/ch03_implied_volatility_dynamics.md
+            - 04. 动态对冲与离散调仓: library/book/Euan_Sinclair_Volatility_Trading/ch04_hedging.md
+            - 05. 对冲头寸与路径依赖: library/book/Euan_Sinclair_Volatility_Trading/ch05_hedged_positions.md
+            - 06. 资金管理与凯利准则: library/book/Euan_Sinclair_Volatility_Trading/ch06_money_management.md
+            - 07. 交易评估与夏普指标: library/book/Euan_Sinclair_Volatility_Trading/ch07_trade_evaluation.md
+            - 08. 交易心理学与行为偏差: library/book/Euan_Sinclair_Volatility_Trading/ch08_psychology.md
+            - 09. 交易生命周期全复盘: library/book/Euan_Sinclair_Volatility_Trading/ch09_trade_lifecycle.md
+            - 附录A. 无模型隐含方差与VIX: library/book/Euan_Sinclair_Volatility_Trading/appendix_a_vix.md
+            - 附录B. BSM公式与Greeks: library/book/Euan_Sinclair_Volatility_Trading/appendix_b_bsm.md
           - Orange期权与波动率交易实战知识体系:
             - 知识库概览: library/book/Orange期权实战知识体系/index.md
             - 01. 体系全景与五层架构: library/book/Orange期权实战知识体系/01_体系全景.md
