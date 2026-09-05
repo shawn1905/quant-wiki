@@ -3,6 +3,7 @@
 - **作者**: Igor Tulchinsky (WorldQuant 创始人兼 CEO) 及 WorldQuant 全球资深量化研究员团队
 - **出版方**: John Wiley & Sons (Wiley Trading Series, 2nd Edition)
 - **格式**: 完整原生 Markdown 章节化版本（全书 32 篇独立 Markdown 章节）
+- **原版 PDF**: 📥 [点击下载原版英文 PDF (4.93 MB)](Finding_Alphas_WorldQuant_EN.pdf) ｜ 📥 [点击下载中文精译 PDF (30.51 MB)](Finding_Alphas_WorldQuant_ZH.pdf)
 - **核心定位**: 全球顶尖量化对冲基金 WorldQuant 的阿尔法因子挖掘圣经
 
 ---

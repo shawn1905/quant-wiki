@@ -4,6 +4,7 @@
 - **出版方**: John Wiley & Sons (*Wiley Trading Series*)
 - **年份**: 2020
 - **格式**: 完整原生 Markdown 章节化版本
+- **原版 PDF**: 📥 [点击下载原版 PDF 原件 (11.67 MB)](Positional_Option_Trading_Euan_Sinclair.pdf)
 - **核心定位**: 突破无风险对冲局限、系统量化宏观头寸与方差溢价（VRP）的高阶期权实战手册
 
 ---
