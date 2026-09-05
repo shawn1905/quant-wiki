@@ -456,6 +456,40 @@ nav:
           - 量化交易系统构建Wiley版: library/book/Quantitative Trading_ How to Build Your Own Algorithmic Trading Business (Wiley Trading) (2021, Wiley)/index.md
           - 统计套利算法交易: library/book/量化交易/Statistical Arbitrage/index.md
           - 波动率微笑: library/book/量化交易/The Volatility Smile/index.md
+          - 头寸期权交易高级指南(Sinclair全书原版Markdown):
+            - 全书导读与导航: library/book/Euan_Sinclair_Positional_Option_Trading/index.md
+            - 00. 交易即流程: library/book/Euan_Sinclair_Positional_Option_Trading/ch00_introduction.md
+            - 01. 期权基础与定价理论: library/book/Euan_Sinclair_Positional_Option_Trading/ch01_options.md
+            - 02. 有效市场假说与Alpha衰减: library/book/Euan_Sinclair_Positional_Option_Trading/ch02_efficient_market.md
+            - 03. 波动率预测模型与GARCH: library/book/Euan_Sinclair_Positional_Option_Trading/ch03_forecasting_volatility.md
+            - 04. 方差溢价VRP深度实证: library/book/Euan_Sinclair_Positional_Option_Trading/ch04_variance_premium.md
+            - 05. 寻找正期望交易(+EV): library/book/Euan_Sinclair_Positional_Option_Trading/ch05_positive_ev_trades.md
+            - 06. 波动率头寸结构与行权价: library/book/Euan_Sinclair_Positional_Option_Trading/ch06_volatility_positions.md
+            - 07. 方向性期权与主观定价: library/book/Euan_Sinclair_Positional_Option_Trading/ch07_directional_trading.md
+            - 08. 方向性策略深度优选: library/book/Euan_Sinclair_Positional_Option_Trading/ch08_directional_strategies.md
+            - 09. 仓位管理与凯利准则: library/book/Euan_Sinclair_Positional_Option_Trading/ch09_trade_sizing.md
+            - 10. 宏观元风险与防黑天鹅: library/book/Euan_Sinclair_Positional_Option_Trading/ch10_meta_risks.md
+            - 11. 结语心智模型: library/book/Euan_Sinclair_Positional_Option_Trading/ch11_conclusion.md
+            - 附录1. BSM现实假设调整: library/book/Euan_Sinclair_Positional_Option_Trading/appendix1_adjustments.md
+            - 附录2. 统计速算法: library/book/Euan_Sinclair_Positional_Option_Trading/appendix2_rules_of_thumb.md
+            - 附录3. 执行与滑点: library/book/Euan_Sinclair_Positional_Option_Trading/appendix3_execution.md
+          - 寻找阿尔法(WorldQuant全书原版Markdown):
+            - 全书导读与导航: library/book/Igor_Tulchinsky_Finding_Alphas/index.md
+            - Ch01. Alpha设计导论: library/book/Igor_Tulchinsky_Finding_Alphas/ch01_introduction_to_alpha_design.md
+            - Ch03. 止损与资本保护: library/book/Igor_Tulchinsky_Finding_Alphas/ch03_cutting_losses.md
+            - Ch04. Alpha设计原则: library/book/Igor_Tulchinsky_Finding_Alphas/ch04_alpha_design.md
+            - Ch07. 换手率管理: library/book/Igor_Tulchinsky_Finding_Alphas/ch07_turnover.md
+            - Ch08. Alpha相关性: library/book/Igor_Tulchinsky_Finding_Alphas/ch08_alpha_correlation.md
+            - Ch09. 回测防过拟合: library/book/Igor_Tulchinsky_Finding_Alphas/ch09_backtest___signal_or_overfitti.md
+            - Ch12. 提升Alpha稳健性: library/book/Igor_Tulchinsky_Finding_Alphas/ch12_techniques_for_improving_the_r.md
+            - Ch14. 风险控制与最大回撤: library/book/Igor_Tulchinsky_Finding_Alphas/ch14_risk_and_drawdowns.md
+            - Ch15. 自动化机器搜索: library/book/Igor_Tulchinsky_Finding_Alphas/ch15_alphas_from_automated_search.md
+            - Ch16. 机器学习在Alpha中应用: library/book/Igor_Tulchinsky_Finding_Alphas/ch16_machine_learning_in_alpha_rese.md
+            - Ch23. 期权市场信息挖掘: library/book/Igor_Tulchinsky_Finding_Alphas/ch23_stock_returns_information_from.md
+            - Ch26. 日内微观高频数据: library/book/Igor_Tulchinsky_Finding_Alphas/ch26_intraday_data_in_alpha_researc.md
+            - Ch27. 日内交易执行: library/book/Igor_Tulchinsky_Finding_Alphas/ch27_intraday_trading.md
+            - Ch30. 期货与远期Alpha: library/book/Igor_Tulchinsky_Finding_Alphas/ch30_finding_alphas_on_futures_and_.md
+            - Ch32. 顶尖Quant的七大习惯: library/book/Igor_Tulchinsky_Finding_Alphas/ch32_the_seven_habits_of_highly_suc.md
           - 波动率交易(Sinclair全书原版Markdown):
             - 全书导读与导航: library/book/Euan_Sinclair_Volatility_Trading/index.md
             - 00. 交易流程导论: library/book/Euan_Sinclair_Volatility_Trading/ch00_introduction.md

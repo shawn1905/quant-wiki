@@ -61,6 +61,9 @@
 - [获取Alpha的量化策略](book/量化交易/Quantitative Strategies for Achieving Alpha (McGraw-Hill Finance & Investing)-McGraw-Hill Finance & Investing (2008)/index.md)
 - [量化交易系统构建](book/量化交易/Quantitative Trading_ How to Build Your Own Algorithmic Trading Business-Wiley (2008)/index.md)
 - [统计套利](book/量化交易/Statistical Arbitrage/index.md)
+- [波动率交易 (Sinclair 原版 12 章完整 Markdown)](book/Euan_Sinclair_Volatility_Trading/index.md) - 期权波动率量化建模与动态对冲经典
+- [头寸期权交易高级指南 (Sinclair 原版 15 章完整 Markdown)](book/Euan_Sinclair_Positional_Option_Trading/index.md) - 方差溢价 VRP 实证与头寸管理高阶宝典
+- [寻找阿尔法 Finding Alphas (WorldQuant 原版 32 章完整 Markdown)](book/Igor_Tulchinsky_Finding_Alphas/index.md) - 顶尖对冲基金量化因子挖掘与策略构建指南
 - [波动率交易](book/量化交易/Volatility Trading, + Website-Wiley (2013)/index.md)
 - [Orange期权与波动率交易实战知识体系](book/Orange期权实战知识体系/index.md) - 商品/股指期权波动率驱动实战交易体系（含五层架构、量化风控铁律与实战图表）
 
